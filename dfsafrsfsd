@@ -1,0 +1,45 @@
+[33mcommit 6d6ca8cbe6a4db7b81439b6e3f3cc8cd33ce831d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Lorenzo Lezcano <lorenzodavidlezcano@gmail.com>
+Date:   Fri Jan 24 00:19:51 2020 -0300
+
+    Cambio de maestria
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 5c29c854019cf71378f2cf100204297e61de17ed[m
+Author: Lorenzo Lezcano <lorenzodavidlezcano@gmail.com>
+Date:   Fri Jan 24 00:18:41 2020 -0300
+
+    Cambio de vida
+
+ historia.txt | 4 [32m++[m[31m--[m
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+[33mcommit 39cd021325f8c7ddb99a5d007e031257ea8d2feb[m
+Author: Lorenzo Lezcano <lorenzodavidlezcano@gmail.com>
+Date:   Fri Jan 24 00:18:02 2020 -0300
+
+    Arranco mi proyecto real con html y css
+
+ blogpost.html   | 10 [32m++++++++++[m
+ css/estilos.css |  6 [32m++++++[m
+ 2 files changed, 16 insertions(+)
+
+[33mcommit b7294d07ad98ccaab0a6838086467981b3c3bfcb[m
+Author: Lorenzo Lezcano <lorenzodavidlezcano@gmail.com>
+Date:   Thu Jan 23 23:08:24 2020 -0300
+
+    Cambios al archivo de historia para reflejar la edad correcta
+
+ historia.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 463e2fe640c0fdfa446bb6beba37be50359bf73e[m
+Author: Lorenzo Lezcano <lorenzodavidlezcano@gmail.com>
+Date:   Thu Jan 23 23:04:54 2020 -0300
+
+    Este es el primer commit de este archivo
+
+ historia.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
