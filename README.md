@@ -15,3 +15,4 @@ agdgsdgsioghsogsogpdsgphdgd
 dspiodfyujsdjhsdoiydfj
 
 ## creado por el increible lordlez 
+* Incliye muchos ejemplos
