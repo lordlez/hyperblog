@@ -15,8 +15,5 @@ agdgsdgsioghsogsogpdsgphdgd
 dspiodfyujsdjhsdoiydfj
 
 ## creado por el increible lordlez 
-<<<<<<< HEAD
-=======
 * Incliye muchos ejemplos
 * Disponible para todo el publico
->>>>>>> readme-mejorado
