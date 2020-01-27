@@ -16,3 +16,4 @@ dspiodfyujsdjhsdoiydfj
 
 ## creado por el increible lordlez 
 * Incliye muchos ejemplos
+* Disponible para todo el publico
